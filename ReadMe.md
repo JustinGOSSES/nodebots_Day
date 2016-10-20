@@ -1,10 +1,11 @@
-Files and notes from International Nodebots day: 2016-07-30
+### Files and notes from International Nodebots day: 2016-07-30
+#### also include some files from trying different thigns with the Tessel 2 afterwards.
 
-- Slides from the meeting, which also give introduction to initial code: 
+#### - Slides from the meeting, which also give introduction to initial code: 
     - https://github.com/dtex/nbd2016
     - they are also cloned into this folder within the nbd2016 folder. Open the index.html file. 
 
-- Other good resource are: 
+####- Other good resource are: 
     1. the JS library built for JS and Robots: http://johnny-five.io/ 
     2. Tessel introduction slides & code: http://start.tessel.io/install
     3. Where to buy kits: https://www.sparkfun.com/products/12060

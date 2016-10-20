@@ -1,6 +1,6 @@
 ### Files and notes from International Nodebots day: 2016-07-30
 ### Used Tessel 2 to make a sumobot
-#### also include some files from trying different thigns with the Tessel 2 afterwards.
+#### this repo also includes some files from trying different thigns with the Tessel 2 afterwards, including a webserver, couple light blinking control options, and a non-yet-complete attempt at a wildlife camera.
 
 #### - Slides from the meeting, which also give introduction to initial code: 
     - https://github.com/dtex/nbd2016

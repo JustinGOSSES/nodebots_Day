@@ -1,4 +1,5 @@
 ### Files and notes from International Nodebots day: 2016-07-30
+### Used Tessel 2 to make a sumobot
 #### also include some files from trying different thigns with the Tessel 2 afterwards.
 
 #### - Slides from the meeting, which also give introduction to initial code: 
@@ -10,6 +11,8 @@
     1. the JS library built for JS and Robots: http://johnny-five.io/ 
     2. Tessel introduction slides & code: http://start.tessel.io/install
     3. Where to buy kits: https://www.sparkfun.com/products/12060
+
+#### Notes from nodebots day: 
 
 - The JS files at the top level are run from the terminal by :  T2 run script.js
 - The folder sumobot holds code I used to control the nodebot. 

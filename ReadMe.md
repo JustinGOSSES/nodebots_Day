@@ -12,7 +12,7 @@
     - https://github.com/dtex/nbd2016
     - they are also cloned into this folder within the nbd2016 folder. Open the index.html file. 
 
-#### My blog <a href="http://justingosses.com/nodebots/">post</a>
+#### My blog <a href="http://justingosses.com/nodebots/">post</a> on the Houston international nodebots day event
 
 #### Notes from nodebots day: 
 

@@ -4,6 +4,7 @@
 #### - Slides from the meeting, which also give introduction to initial code: 
     - https://github.com/dtex/nbd2016
     - they are also cloned into this folder within the nbd2016 folder. Open the index.html file. 
+#### My blog <a href="http://justingosses.com/nodebots/">post</a>
 
 ####- Other good resource are: 
     1. the JS library built for JS and Robots: http://johnny-five.io/ 
